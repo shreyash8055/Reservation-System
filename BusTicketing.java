@@ -10,7 +10,7 @@ import javax.swing.JComponent;
 
 /**
  *
- * @author janhavi
+ *
  */
 public class BusTicketing extends javax.swing.JFrame {
 
